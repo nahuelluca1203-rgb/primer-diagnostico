@@ -1,0 +1,20 @@
+{
+  "name": "primer-diagnostico",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/nahuelluca1203-rgb/primer-diagnostico#readme",
+  "bugs": {
+    "url": "https://github.com/nahuelluca1203-rgb/primer-diagnostico/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nahuelluca1203-rgb/primer-diagnostico.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "diagnostico.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
