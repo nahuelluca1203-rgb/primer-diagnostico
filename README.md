@@ -415,10 +415,6 @@ Las propiedades utilizadas fueron:
 
 Con este trabajo pude comprobar que mi entorno de desarrollo estaba correctamente configurado.
 
-También aprendí a utilizar el objeto `process` de Node.js y sus diferentes propiedades para obtener información del entorno de ejecución.
-
-Además, aprendí a utilizar npm para crear un comando de ejecución, Git para controlar las versiones del proyecto y GitHub para almacenar y entregar el trabajo.
-
 El diagnóstico final permite comprobar la versión de Node.js, la plataforma, los argumentos recibidos y una variable de entorno.
 
 ---
