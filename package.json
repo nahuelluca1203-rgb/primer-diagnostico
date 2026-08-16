@@ -1,7 +1,7 @@
 {
   "name": "primer-diagnostico",
   "version": "1.0.0",
-  "description": "",
+  "description": "Diagnóstico básico de Node.js utilizando process",
   "homepage": "https://github.com/nahuelluca1203-rgb/primer-diagnostico#readme",
   "bugs": {
     "url": "https://github.com/nahuelluca1203-rgb/primer-diagnostico/issues"
@@ -15,10 +15,7 @@
   "type": "commonjs",
   "main": "diagnostico.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  }
+  "test": "echo \"Error: no test specified\" && exit 1",
+  "diagnostico": "node diagnostico.js"
 }
-"scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "diagnostico": "node diagnostico.js"
-  }
+}
